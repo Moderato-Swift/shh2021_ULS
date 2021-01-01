@@ -13,8 +13,8 @@
  
  ![요양병원 및 요양시설 수 증가](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/dataChartOne.png?raw=true)
  * 코로나19로 인한 언택드시대에서 가정에서의 개개인의 요양을 초점
- * 기존의 전용침대에 ICT기술울 추가하여 사회적약자의 삶의 질을 개선하기 위한 Smart Bed
- ![기존 전용침대](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/smartbed_resize.png?raw=true)
+ * 기존의 의료용침대에 ICT기술울 추가하여 사회적약자의 삶의 질을 개선하기 위한 Smart Bed
+ ![기존 의료용침대](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/smartbed_resize.png?raw=true)
  * 기존의 Smart Bed 개발현황
   1. 일반인 대상
   2. 수면 질 향상의 목적
@@ -22,10 +22,14 @@
   * 스마트폰 앱의 한계
   1. 스마트폰을 놓은 위치에 따라 결과가 달라짐
   2. 소리가 작으면 측정되지 않음
- * 실제 센서를 침대에 부착해야하는 필요성 
+ * 실제 센서를 침대에 부착해야하는 필요성
   # 프로젝트 설명
-  # 프로젝트 히스토리
+  * 각 센서 설명
   
+  
+  
+  # 프로젝트 히스토리
+  * 2020.12.~
   
   
  
