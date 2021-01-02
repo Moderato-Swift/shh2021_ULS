@@ -32,12 +32,12 @@
   
   * Smart Bed Module를 침대에 직접장착 > 앱을 통해 정확한 데이터를 추출 > LCD 표시 > 비싼 Smart Bed 구매할 필요없음
   
-   ![Smart Bed Case 도면](사진링크)
+   ![Smart Bed Case 도면](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/drawing_2.png?raw=true)
    
    STM32,배터리,LCD 내장
    각 환자를 분류하여 취향에 맞는 케이스 디자인을 지정
   
-   ![Smart Bed Module](사진링크)
+   ![Smart Bed Module](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/drawing_3.png?raw=true)
   
   1. 온도 센서
   
