@@ -3,10 +3,10 @@
  ___
 ### 팀이름_ULS(Untact Logic Structure)
 ### 팀소개
- * 강준구(STM32CubeMX)
+ * 강준구(STM32CubeMX) (각자 맡은일 추가)
  * 이상혁(Android Application)
  * 권용찬(Cloude Data)
- * 정수빈(Design)
+ * 정수빈(Planning and Design)
  ### 프로젝트 명_Smart Bed
 ### 개요
  * 대상-요양원의 노약자 및 요양병원의 환자
