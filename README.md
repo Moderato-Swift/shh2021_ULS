@@ -12,11 +12,7 @@
 ### 개요
  * 대상-요양원의 **노약자** 및 **요양병원의 환자**
  * 요양병원 및 요양 시설 수 **증가**
- 
- ![요양병원 및 요양시설 수 증가](증가율사진 )
  * 코로나19로 인한 **언택드시대**에서 **가정**에서의 **개개인의 요양**을 초점
- 
-
  
  * 기존의 Smart Bed 
  
@@ -39,7 +35,7 @@
  
  ### 프로젝트 설명
   
-   ![Smart Bed Case 도면]()
+   ![Smart Bed Case 도면](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/Case.PNG)
    
    * **Smart Bed Case**에는 **STM32, 배터리, LCD**가 내장되어 있습니다.
    * **Smart Bed Module**를 **침대에 직접 장착 > 앱을 통한 정확한 데이터를 추출 > LCD 표시
@@ -109,7 +105,6 @@
  * 국내외 스마트침대 [here](https://www.youtube.com/watch?v=BJTeHOZERnA&feature=youtu.be)
  * 스마트폰 앱의 한계 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
  * 의료용 침대 [here](https://www.youtube.com/watch?app=desktop&v=xHsvN7MNfRM)
- * 요양병원 및 요양시설 수 증가 사진 출처[here](http://www.mediwelfare.com/news/articleView.html?idxno=1655)
  * Smart Bed Module 사진 출처 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
  
  
