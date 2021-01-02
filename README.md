@@ -104,6 +104,9 @@
  * 국내외 스마트침대 [here](https://www.youtube.com/watch?v=BJTeHOZERnA&feature=youtu.be)
  * 스마트폰 앱의 한계 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
  * 의료용 침대 [here](https://www.youtube.com/watch?app=desktop&v=xHsvN7MNfRM)
+ * 요양병원 및 요양시설 수 증가 사진 출처[here]()
+ * 기존 의료용침대 사진 출처 [here]()
+ * Smart Bed Module 사진 출처 [here]()
  
  
 
