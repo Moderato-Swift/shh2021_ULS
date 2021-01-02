@@ -16,8 +16,7 @@
  ![요양병원 및 요양시설 수 증가](증가율사진 )
  * 코로나19로 인한 **언택드시대**에서 **가정**에서의 **개개인의 요양**을 초점
  
- 
- ![기존 의료용침대](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/smartbed_resize.png?raw=true)
+
  
  * 기존의 Smart Bed 
  
@@ -111,7 +110,6 @@
  * 스마트폰 앱의 한계 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
  * 의료용 침대 [here](https://www.youtube.com/watch?app=desktop&v=xHsvN7MNfRM)
  * 요양병원 및 요양시설 수 증가 사진 출처[here](http://www.mediwelfare.com/news/articleView.html?idxno=1655)
- * 기존 의료용침대 사진 출처 [here]()
  * Smart Bed Module 사진 출처 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
  
  
