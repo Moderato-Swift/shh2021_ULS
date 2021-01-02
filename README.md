@@ -15,9 +15,12 @@
  ![요양병원 및 요양시설 수 증가](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/dataChartOne.png?raw=true)
  * 코로나19로 인한 언택드시대에서 가정에서의 개개인의 요양을 초점
  
- * 기존의 의료용침대에 ICT기술울 추가하여 사회적약자의 삶의 질을 개선하기 위한 Smart Bed
+ * 기존의 의료용침대에 ICT기술울 추가하여 사회적약자의 삶의 질을 개선
+ 
  ![기존 의료용침대](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/smartbed_resize.png?raw=true)
+ 
  * 기존의 Smart Bed 개발현황
+ 
   1. 일반인 대상
   2. 수면 질 향상의 목적
   3. 비싼 가격
