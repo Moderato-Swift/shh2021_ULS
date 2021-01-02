@@ -35,7 +35,7 @@
  
  ### 프로젝트 설명
   
-  * Smart Bed Module를 침대에 직접장착 > 앱을 통해 정확한 데이터를 추출 > LCD 표시 > 비싼 Smart Bed 구매할 필요없음
+  * Smart Bed Module를 침대에 직접장착 > 앱을 통해 정확한 데이터를 추출 > LCD 표시
   
    ![Smart Bed Case 도면](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/drawing_2.png?raw=true)
    
