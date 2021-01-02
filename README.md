@@ -1,12 +1,12 @@
 # shh2021_ULS
  2021 Seoul Hardware Hackathon, ULS Team
 ### 팀이름_ULS(Untact Logic Structure)
-### 프로젝트 명_Smart Bed
 ### 팀소개
  * 강준구(STM32CubeMX)
  * 이상혁(Android Application)
  * 권용찬(Cloude Data)
  * 정수빈(Design)
+ ### 프로젝트 명_Smart Bed
 ### 개요
  * 대상_요양원의 노약자 및 요양병원의 환자
  * 요양병원 및 요양시설 수 증가
