@@ -79,8 +79,8 @@
   
  ##### 참고링크
  
- * 요양병원 및 요양시설 수 증가 [here]()
- 
+ * 스마트폰 앱의 한계 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
+ * 의료용 침대 [here](https://www.youtube.com/watch?app=desktop&v=xHsvN7MNfRM)
  
  
 
