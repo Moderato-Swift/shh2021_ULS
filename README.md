@@ -24,14 +24,17 @@
   1. 일반인 대상
   2. 수면 질 향상의 목적
   3. 비싼 가격
+  
   * 스마트폰 앱의 한계
+  
   1. 스마트폰을 놓은 위치에 따라 결과가 달라짐
   2. 소리(코골이)가 작으면 측정되지 않음
+  
  * 실제 센서를 침대에 부착해야하는 필요성을 느낌
  
  ### 프로젝트 목표
  
- 수면패턴과 움직임 패턴의 누적 데이터를 통해 누워계시는 환자와 노인분들의 불편함을 미리 예측하여 도움을 주는 것
+* 수면패턴과 움직임 패턴의 누적 데이터를 통해 누워계시는 환자와 노인분들의 불편함을 미리 예측하여 도움을 주는 것
  
  ### 프로젝트 설명
   
@@ -39,8 +42,8 @@
   
    ![Smart Bed Case 도면](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/drawing_2.png?raw=true)
    
-   STM32,배터리,LCD 내장
-   각 환자를 분류하여 취향에 맞는 케이스 디자인을 지정
+   * STM32,배터리,LCD 내장
+   * 각 환자를 분류하여 취향에 맞는 케이스 디자인을 지정
   
    ![Smart Bed Module](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/drawing_3.png?raw=true)
   
