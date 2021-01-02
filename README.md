@@ -9,7 +9,7 @@
  * 정수빈(Design)
  ### 프로젝트 명_Smart Bed
 ### 개요
- * 대상_요양원의 노약자 및 요양병원의 환자
+ * 대상-요양원의 노약자 및 요양병원의 환자
  * 요양병원 및 요양시설 수 증가
  
  ![요양병원 및 요양시설 수 증가](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/dataChartOne.png?raw=true)
