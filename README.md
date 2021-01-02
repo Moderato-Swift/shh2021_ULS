@@ -39,7 +39,7 @@
  
  ### 프로젝트 설명
   
-   ![Smart Bed Case 도면](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/drawing_2.png?raw=true)
+   ![Smart Bed Case 도면]()
    
    * **Smart Bed Case**에는 **STM32, 배터리, LCD**가 내장되어 있습니다.
    * **Smart Bed Module**를 **침대에 직접 장착 > 앱을 통한 정확한 데이터를 추출 > LCD 표시
