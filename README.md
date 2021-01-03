@@ -5,7 +5,7 @@
 ### 팀소개
  * 강준구(STM32)
  * 이상혁(Android Application)
- * 권용찬(Cloude Data)
+ * 권용찬(Cloud Data)
  * 정수빈(Planning and Design)
 
 ### 개요
@@ -39,8 +39,8 @@
   
    ![Smart Bed Case 도면](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/Case.PNG)
    
-   * **Smart Bed Case**에는 **STM32, 배터리, LCD**가 내장되어 있습니다.
-   * **Smart Bed Module**를 **침대에 직접 장착 > 앱을 통한 정확한 데이터를 추출 > LCD 표시
+   * **Smart Bed Case**에는 **배터리, LCD**가 내장되어 있습니다. 외부에는 STM32보드가 침대 안에 연결되어 있습니다.
+   * **Smart Bed Module**를 침대에 직접 장착 > 앱을 통한 정확한 데이터를 추출 > LCD 표시
    * 케이스 디자인은 각 질병마다 환자를 분류해 주거나 일반인들 취향에 따라 디자인할 수 있습니다.
   
    ![Smart Bed Module](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/drawing_3.png?raw=true)
@@ -147,7 +147,9 @@
   ### 향후 진행
   ___
   - Hardware
-    - 
+    - 현재는 제품 기능 구현을 목적으로 하여, 디스커버리 보드의 센서들을 활용하였지만, 해커톤 이후, 침대에 알맞는 크기와 모양으로 PCB 기판 작업을 진행하여 센서 값의 정확도와 효율을 높일 것이다.
+    - 보호자의 도움이 필요한 환자를 위해 호출 기능을 추가할 것이다.
+    - 사운드 센서를 추가하여 수면 분석 정확도를 높일 것이다.(코골이, 뒤척임 감지)
   - Software
     - TensorFlow을 이용한 데이터 모델 만들기
       - DynamoDB에 저장된 데이터들을 CSV 파일 형태로 변환하여, TensorFlow에서 비지도학습 중 K-means Clustering 알고리즘을 이용해 이용자(노인)분들의 동작 상태를 분류할 수 있는 모델
