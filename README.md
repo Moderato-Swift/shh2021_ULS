@@ -8,6 +8,12 @@
  * 권용찬(Cloud Data)
  * 정수빈(Planning and Design)
 
+### 활동사진
+
+![활동사진1](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/perTwo.jpg?raw=true)
+![활동사진2](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/perThree.jpg?raw=true)
+![활동사진3](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/perOne.jpg?raw=true)
+
 ### 개요
  * 대상-요양원의 **노약자** 및 **요양병원의 환자**
  * 요양병원 및 요양 시설 수 **증가**
@@ -45,6 +51,8 @@ ___
    * 케이스 디자인은 각 질병마다 환자를 분류해 주거나 일반인들 취향에 따라 디자인할 수 있습니다.
   
    ![Smart Bed Module](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/drawing_3.png?raw=true)
+
+   ![Smart Bed Controller](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/controller.jpg?raw=true)
    
    ![어플 사진](어플 사진 링크)
   
