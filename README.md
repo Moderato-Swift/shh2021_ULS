@@ -82,7 +82,12 @@
   ### 구성도 역할
 
   - Hardware
-    - 
+    - STM32L4S5I Discovery Kit 
+      - Kit에 내장된 온도, 압력, 습도, 가속도 센서에서 받은 값을 AWS에 전송
+    -  전원부
+       - Micro 5pin 충전핀과 다양한 환경에서 사용 가능하도록 9V Battery 소켓을 내장
+    - 출력
+      - LCD와 BUZZER를 통해 간병인에게 상황을 신속하게 전달
   - Software
     - Android
       - Smart Bed에 필요한 센서값들을 불러서 Chart 표현 및 분석, 알림 설정, 센서값 확인 등의 역할
@@ -98,7 +103,8 @@
   ### 개발 환경
  
  - Hardware
-   - 
+   - CUBE PROGRAMMER, CUBE MONITOR
+   - 전원부 : 9V Battery + Regulator[LM7805]
  - Software
    - APP : Android(Java)
    - IoT 서비스 : AWS IoT Core(Android SDK Version)
@@ -121,10 +127,24 @@
   * 2021.1.2 ~
   * 2021.1.2 ~
   ___
+
+  ### 향후 진행
+  - Hardware
+    - 
+  - Software
+    - TensorFlow을 이용한 데이터 모델 만들기
+      - DynamoDB에 저장된 데이터들을 CSV 파일 형태로 변환하여, TensorFlow에서 비지도학습 중 K-means Clustering 알고리즘을 이용해 이용자(노인)분들의 동작 상태를 분류할 수 있는 모델
+    - UI 수정
+      - Animation 적용 및 디자인 수정
+    - Web 제작
+      - 이미 구축된 AWS SDK를 이용해 홈페이지 만들기
+
  ##### 참고링크 (각자 참고하셨던 링크)
  
  * 국내외 스마트침대 [here](https://www.youtube.com/watch?v=BJTeHOZERnA&feature=youtu.be)
  * 스마트폰 앱의 한계 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
+
+
  
 # 발표 2~3분 이내(시연 영상 합쳐서 5분 이내)
  
