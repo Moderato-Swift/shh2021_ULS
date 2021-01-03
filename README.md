@@ -4,7 +4,7 @@
 # ULS(Untact Logic Structure)
 
 ### 팀소개
- * 강준구(STM32CubeMX) (각자 맡은일 추가)
+ * 강준구(STM32CubeMX) 
  * 이상혁(Android Application)
  * 권용찬(Cloude Data)
  * 정수빈(Planning and Design)
@@ -66,15 +66,10 @@
   
   침대에 환자 유무 알림
   
-  ((. 적외선 센서(?))
   
-  * 이외 기능
-  
-  ![어플 기능](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/imageDescription_1.png)
   
    
-  [발표 >> 응급버튼을 통해 사용자의 ~~ 지정시간(식사,약)을 통해 보호자 앱으로 알림, 환자와 노인의 성별, 연령대를 분류할 수있고 같은 질병(파킨슨병,루게릭병)을 가지고 있는 사람들의 데이터를 누적하여 저장 > 향후 생리현상을 예측, 수면패턴과 움직임 패턴을 기록]
-  
+ 
   ### 시스템 구성도
   
   ![시스템 구성도](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/system_image.png?raw=true)
@@ -110,7 +105,5 @@
  * 국내외 스마트침대 [here](https://www.youtube.com/watch?v=BJTeHOZERnA&feature=youtu.be)
  * 스마트폰 앱의 한계 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
  
-# 코드 파일 올리기
-# 발표 2~3분 이내(시연 영상 합쳐서 5분 이내)
  
  
