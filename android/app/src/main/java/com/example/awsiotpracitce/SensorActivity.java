@@ -34,9 +34,18 @@ public class SensorActivity extends Activity implements CircleProgressBar.Progre
     private static final String DEFAULT_PATTERN = "%d%%";
     private static final String CHANNEL_ID = "1001";
 
-    private static final String CUSTOMER_SPECIFIC_ENDPOINT = "any3c17u0403e-ats.iot.ap-northeast-2.amazonaws.com"; //Set your endpoint
+    /*
+    *
+    *        Need to setup your endpoint, Congito, region condition first!!!!
+    *        Need to setup your endpoint, Congito, region condition first!!!!
+    *        Need to setup your endpoint, Congito, region condition first!!!!
+    *
+    *
+    * */
+    private static final String CUSTOMER_SPECIFIC_ENDPOINT = "*********.iot.**********.amazonaws.com"; //Set your endpoint
     private static final String COGNITO_POOL_ID = "ap-northeast-2:ec35f67b-ac47-4579-a289-9dfc85a6203d"; //Set your Cognito ID
     private static final Regions MY_REGION = Regions.AP_NORTHEAST_2; //Set your region
+
 
     final String topic = "dt/stm32l475e/sensor-data/topic"; //Set your topic
 
