@@ -126,7 +126,6 @@
  * 국내외 스마트침대 [here](https://www.youtube.com/watch?v=BJTeHOZERnA&feature=youtu.be)
  * 스마트폰 앱의 한계 [here](https://www.youtube.com/watch?app=desktop&v=znju4QaRpok)
  
-# 코드 파일 올리기
 # 발표 2~3분 이내(시연 영상 합쳐서 5분 이내)
  
  
