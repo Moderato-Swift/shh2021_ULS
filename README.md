@@ -77,12 +77,16 @@
   
   ### 시스템 구성도
   
-  (사진)
-  
+  ![시스템 구성도](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/system_image.png?raw=true)
+
   ### 개발 환경
  
- ex)데이터 저장 - AWS Dynamodb
- 
+ - Hardware
+   - 
+ - Software
+   - APP : Android(Java)
+   - IoT 서비스 : AWS IoT Core(Android SDK Version)
+   - AWS 서비스 : AWS Lamdba(Node.js), DynamoDB, API Gateway
   
   ### 시연 영상 (2~3분 이내)
   
