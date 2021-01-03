@@ -32,7 +32,8 @@
  ___
  
   * 수면패턴과 움직임 패턴의 누적 데이터를 통해 누워계시는 환자와 노인분들의 불편함을 미리 예측하여 도움을 주는 것이 목표입니다.
-  ___
+  
+___
  
  ### 프로젝트 설명
  ___
@@ -85,12 +86,14 @@
 
   부가적으로 침대 주변의 온도와 습도, 환자 유무를 알려준다.
   ___
+
   ### 시스템 구성도
   ___
   
   ![시스템 구성도](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/system_image.png?raw=true)
 
   ___
+
   ### 구성도 역할
   ___
 
@@ -113,6 +116,7 @@
     - AWS API Gateway
       - Lambda에 설정된 코드에 의해, 특정 RestAPI 주소를 호출하면 알맞은 데이터 값을 가져올 수 있는 역할
   ___
+
   ### 개발 환경
   ___
  
@@ -124,6 +128,7 @@
    - IoT 서비스 : AWS IoT Core(Android SDK Version)
    - AWS 서비스 : AWS Lamdba(Node.js), DynamoDB, API Gateway
   ___
+
   ### 시연 영상 (2~3분 이내)
   ___
   
@@ -158,6 +163,7 @@
     - Web 제작
       - 이미 구축된 AWS SDK를 이용해 홈페이지 만들기
   ___
+  
  ##### 참고링크 (각자 참고하셨던 링크)
  ___
  
