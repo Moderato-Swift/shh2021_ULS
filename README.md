@@ -1,7 +1,6 @@
-# shh2021_ULS
+# ULS(Untact Logic Structure)
  2021 Seoul Hardware Hackathon, ULS Team
  ___
-# ULS(Untact Logic Structure)
 
 ### 팀소개
  * 강준구(STM32CubeMX) (각자 맡은일 추가)
