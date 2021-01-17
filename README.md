@@ -10,9 +10,9 @@
 
 ### 활동사진
 
-![활동사진1](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/perTwo.jpg?raw=true)
-![활동사진2](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/perThree.jpg?raw=true)
-![활동사진3](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/perOne.jpg?raw=true)
+![활동사진1](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/person_1.jpg?raw=true)
+![활동사진2](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/person_2.jpg?raw=true)
+![활동사진3](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/person_3.jpg?raw=true)
 
 ### 개요
  * 대상-요양원의 **노약자** 및 **요양병원의 환자**
