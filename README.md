@@ -53,8 +53,14 @@ ___
    ![Smart Bed Module](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/drawing_3.png?raw=true)
 
    ![Smart Bed Controller](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/controller.jpg?raw=true)
+
+  ___
+  ### APP 스크린샷 및 기능 설명
+  ___
    
-   ![어플 사진](어플 사진 링크)
+   ![APP1](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/app_1.jpg?raw=true)
+   ![APP2](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/app_2.jpg?raw=true)
+   ![APP3](https://github.com/Moderato-Swift/shh2021_ULS/blob/main/image/app_3.jpg?raw=true)
   
   **1. 온도 센서**
   
@@ -144,11 +150,12 @@ ___
   ___
   ### 프로젝트 히스토리 (준비하면서 각자 맡았던 일정 정리)
   ___
-  * 2020.12.7  서울하드웨어해커톤 신청서 제출
-  * 2020.12. ~ 팀 전체회의
-  * 2020.12. ~ 
-  * 2020.12. ~
-  * 향후 수정
+  * 2020.12.7        서울하드웨어해커톤 신청서 제출
+  * 2020.12.21 ~ 22  팀 전체회의
+  * 2020.12.23 ~ 29  사용할 플랫폼 및 API 문서 연구
+  * 2020.12.30 ~ 31  1차 개발(FreeRTOS 및 Android 개발)
+  * 2020.1.1 ~ 2     대회 당일(AWS 클라우드 서비스 연동)
+  * 2020.1.3         대회 당일(Debugging 및 발표)
   ___
 
   ### 향후 진행
